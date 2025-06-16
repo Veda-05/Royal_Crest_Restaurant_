@@ -4,7 +4,7 @@ Welcome to the **Royal Crest Hotel** website! This project is a demonstration of
 
 ## 🔗 Live Demo  
 
-Check out the live website: [Royal Crest Hotel](https://pavi2003-eng.github.io/Royal-Crest/)  
+Check out the live website: [Royal Crest Hotel](https://veda-05.github.io/Royal_Crest_Restaurant_/)  
 
 ## ✨ Features  
 
@@ -55,7 +55,7 @@ Royal-Crest/
 
 1. Clone the repository:  
    ```
-   git clone https://github.com/pavi2003-eng/Royal-Crest.git  
+   git clone https://github.com/Veda-05/Royal_Crest_Restaurant_.git
    ```  
 2. Navigate to the project folder:  
    ```
