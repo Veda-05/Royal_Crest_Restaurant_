@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sign-in Page</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: #fff;
+      padding: 30px 40px;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      width: 400px;
+    }
+
+    .container h2 {
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 25px;
+      font-size: 24px;
+    }
+
+    .form-row {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .form-row label {
+      width: 160px;
+      font-weight: bold;
+    }
+
+    .form-row input {
+      flex: 1;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    .create-btn {
+      width: 100%;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .create-btn:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h2>Sign-in</h2>
+    <div class="form-row">
+      <label for="username">Enter your username:</label>
+      <input type="text" id="username" name="username">
+    </div>
+    <div class="form-row">
+      <label for="password">Create a password:</label>
+      <input type="password" id="password" name="password">
+    </div>
+    <button class="create-btn">Create</button>
+  </div>
+
+</body>
+</html>
+

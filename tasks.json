@@ -1,0 +1,18 @@
+[
+  {
+    "task": "preparing for exam",
+    "done": true
+  },
+  {
+    "task": "completing project",
+    "done": true
+  },
+  {
+    "task": "submitting project review",
+    "done": false
+  },
+  {
+    "task": "collecting info for assignment",
+    "done": true
+  }
+]
